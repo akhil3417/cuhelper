@@ -14,4 +14,3 @@ document
   .addEventListener("click", function () {
     chrome.tabs.executeScript({ file: "copyAllques.js" });
   });
-
