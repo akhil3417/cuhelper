@@ -9,3 +9,9 @@ document
   .addEventListener("click", function () {
     chrome.tabs.executeScript({ file: "mcqsearchui.js" });
   });
+document
+  .getElementById("copyQuestionsButton")
+  .addEventListener("click", function () {
+    chrome.tabs.executeScript({ file: "copyAllques.js" });
+  });
+
