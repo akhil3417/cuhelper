@@ -1,6 +1,4 @@
 # cuhelper
-Extension to help the students , solve questions
-
 
 cuHelper - Assignment Question Search and Time Saver Extension
 
@@ -18,6 +16,8 @@ Features:
 NOTE: This extension currently works only in Chromium based browsers.
 
 clone the repo
+```git clone https://github.com/akhil3417/cuhelper```
+
 
 1. Installation: go to  chrome://extensions/ extension click and  load unpacked then navigate to root directory of the extension.
 
